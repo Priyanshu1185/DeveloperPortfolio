@@ -1,0 +1,23 @@
+==========================================
+       SYSTEM INFORMATION REPORT
+==========================================
+Name: Priyanshu Singh
+Roll Number: 2601010126
+Date: Mon Nov 23 22:04:05 IST 2026
+
+----- CPU INFORMATION -----
+CPU Model: Apple M5
+CPU Cores: 10
+
+----- MEMORY INFORMATION -----
+Total Memory: 16.00 GB
+Used Memory (estimated): 8.17 GB
+
+----- TOP 3 PROCESSES BY CPU -----
+  168 /System/Library/   0.2
+  144 /usr/libexec/loc   0.2
+  682 /Applications/Go   0.1
+
+==========================================
+Report generated successfully.
+==========================================
