@@ -1,26 +1,39 @@
 # DeveloperPortfolio
 
-Welcome to my Beginner Developer Ecosystem Portfolio.
+Welcome to my beginner developer portfolio and learning repository.
 
-I am Priyanshu Singh, a first-year B.Tech CSE student at Mangalam University.
+I am Priyanshu Singh, a first-year B.Tech Computer Science and Engineering student at K.R. Mangalam University.
 
-## Portfolio Sections
+## About This Repository
 
-1. Linux - System profile and Linux commands.
-2. ShellScripts - Bash automation scripts.
-3. API - GitHub and JSONPlaceholder API interaction.
-4. Portfolio - Resume and learning roadmap.
+This repository brings together my coursework, practice files, documentation and portfolio website as I learn software development.
+
+## Repository Sections
+
+- **Linux** – system information and Linux command practice.
+- **ShellScripts** – beginner shell scripting exercises.
+- **API** – GitHub and JSONPlaceholder API practice.
+- **Portfolio** – resume and learning roadmap.
+- **Screenshots** – project evidence and screenshots.
+- **index.html** – my personal portfolio website.
 
 ## Skills
-- Python
-- Java
-- HTML
-- CSS
-- Linux
+
+- Python and Java (learning)
+- HTML and CSS
 - Git and GitHub
+- Linux command line
+- JSON and basic REST API concepts
 
-## GitHub
-https://github.com/Priyanshu1185
+## Other Project
 
-## LinkedIn
-Add your LinkedIn profile URL here.
+- [CSE103 Git and GitHub Practice Repository](https://github.com/Priyanshu1185/cse103-lab-LAB3)
+
+## Links
+
+- **GitHub:** https://github.com/Priyanshu1185
+- **LinkedIn:** https://www.linkedin.com/in/priyanshu-singh-812787430
+
+## Learning Goal
+
+My current goal is to strengthen programming fundamentals, practise problem-solving and build useful projects while working towards becoming a software developer.
