@@ -28,5 +28,5 @@ Python practice, Git/GitHub coursework, tests and documentation.
 - Improve web development skills.
 
 ## Contact
-- GitHub: https://github.com/Priy... 
+https://github.com/Priyanshu1185
 - LinkedIn: https://www.linkedin.com/in/priyanshu-singh-812787430
