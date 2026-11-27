@@ -1,39 +1,32 @@
-# DeveloperPortfolio
+# Developer Portfolio
 
-Welcome to my beginner developer portfolio and learning repository.
+Hi! I'm a first-year B.Tech Computer Science and Engineering student at K.R. Mangalam University.
 
-I am Priyanshu Singh, a first-year B.Tech Computer Science and Engineering student at K.R. Mangalam University.
-
-## About This Repository
-
-This repository brings together my coursework, practice files, documentation and portfolio website as I learn software development.
-
-## Repository Sections
-
-- **Linux** – system information and Linux command practice.
-- **ShellScripts** – beginner shell scripting exercises.
-- **API** – GitHub and JSONPlaceholder API practice.
-- **Portfolio** – resume and learning roadmap.
-- **Screenshots** – project evidence and screenshots.
-- **index.html** – my personal portfolio website.
+## About Me
+- Learning programming and software development.
+- Practising Python, Java, HTML and CSS.
+- Learning Git and GitHub for version control.
+- Interested in becoming a Software Developer.
 
 ## Skills
-
-- Python and Java (learning)
+- Python (Beginner)
+- Java (Beginner)
 - HTML and CSS
 - Git and GitHub
-- Linux command line
-- JSON and basic REST API concepts
 
-## Other Project
+## Projects
+### Developer Portfolio
+A personal portfolio website built using HTML and CSS.
 
-- [CSE103 Git and GitHub Practice Repository](https://github.com/Priyanshu1185/cse103-lab-LAB3)
+### CSE103 Lab Repository
+Python practice, Git/GitHub coursework, tests and documentation.
 
-## Links
+## Learning Goals
+- Improve programming fundamentals.
+- Practise Data Structures and Algorithms.
+- Build useful projects.
+- Improve web development skills.
 
-- **GitHub:** https://github.com/Priyanshu1185
-- **LinkedIn:** https://www.linkedin.com/in/priyanshu-singh-812787430
-
-## Learning Goal
-
-My current goal is to strengthen programming fundamentals, practise problem-solving and build useful projects while working towards becoming a software developer.
+## Contact
+- GitHub: https://github.com/Priy... 
+- LinkedIn: https://www.linkedin.com/in/priyanshu-singh-812787430
