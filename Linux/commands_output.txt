@@ -1,0 +1,106 @@
+NOTE: These commands were executed on macOS, not Linux.
+
+===== 1. LIST FILES =====
+total 144
+drwxr-x---+ 41 priyanshu  staff   1312 23 Nov 21:29 .
+drwxr-xr-x   5 root       admin    160 13 Sep 20:53 ..
+-r--------   1 priyanshu  staff      7 13 Sep 17:01 .CFUserTextEncoding
+drwxr-x--x   3 priyanshu  staff     96 23 Nov 21:29 .config
+drwx------@  5 priyanshu  staff    160 17 Sep 20:01 .copilot
+-rw-r--r--@  1 priyanshu  staff  18436 19 Nov 17:26 .DS_Store
+drwxr-xr-x   2 priyanshu  staff     64  4 Nov 01:46 .frameio
+drwxr-xr-x@  5 priyanshu  staff    160 19 Nov 17:32 .gemini
+-rw-r--r--   1 priyanshu  staff     89 12 Nov 12:17 .gitconfig
+drwxr-xr-x   3 priyanshu  staff     96 15 Sep 20:14 .idlerc
+-rw-------   1 priyanshu  staff     20 12 Nov 12:17 .lesshst
+drwxr-xr-x   3 priyanshu  staff     96 23 Nov 21:25 .local
+drwxr-xr-x   5 priyanshu  staff    160 19 Nov 14:36 .npm
+drwx------+  3 priyanshu  staff     96 29 Oct 19:30 .Trash
+drwxr-xr-x@  5 priyanshu  staff    160 14 Sep 19:59 .vscode
+drwxr-xr-x@  3 priyanshu  staff     96 14 Sep 19:59 .vscode-shared
+-rw-r--r--   1 priyanshu  staff    582 23 Nov 21:23 .zprofile
+-rw-r--r--   1 priyanshu  staff    332 15 Sep 20:14 .zprofile.pysave
+-rw-------   1 priyanshu  staff   7427 23 Nov 20:59 .zsh_history
+drwx------  28 priyanshu  staff    896 23 Nov 20:59 .zsh_sessions
+-rw-r--r--@  1 priyanshu  staff   1535 17 Sep 14:56 <!DOCTYPE html>.html
+drwxr-xr-x   2 priyanshu  staff     64  4 Nov 01:47 Creative Cloud Files
+drwxr-xr-x   3 priyanshu  staff     96 12 Nov 12:18 cse103_lab
+drwx------+ 41 priyanshu  staff   1312 23 Nov 21:05 Desktop
+drwxr-xr-x  10 priyanshu  staff    320 23 Nov 20:28 DeveloperPortfolio
+drwx------@  7 priyanshu  staff    224  4 Nov 01:43 Documents
+drwx------@ 79 priyanshu  staff   2528 23 Nov 13:41 Downloads
+-rw-r--r--   1 priyanshu  staff    253 19 Nov 15:39 file.js
+drwxr-xr-x   2 priyanshu  staff     64 15 Sep 19:49 files 8.02.21 PM.html
+-rw-r--r--   1 priyanshu  staff     24 15 Sep 19:40 files.py
+-rw-r--r--   1 priyanshu  staff      0 17 Sep 14:39 html
+-rw-r--r--   1 priyanshu  staff   5353 22 Nov 20:30 import pandas as pd.py
+-rw-r--r--   1 priyanshu  staff    116 19 Nov 14:53 index.js
+drwx------@ 88 priyanshu  staff   2816  4 Nov 01:46 Library
+drwx------   4 priyanshu  staff    128 13 Sep 19:42 Movies
+drwx------+  4 priyanshu  staff    128 14 Sep 21:56 Music
+drwxr-xr-x  10 priyanshu  staff    320 19 Sep 19:55 my learnings
+-rw-r--r--   1 priyanshu  staff      0 19 Nov 15:37 myfile.js
+drwx------+  5 priyanshu  staff    160 14 Sep 11:13 Pictures
+drwxr-xr-x+  4 priyanshu  staff    128 13 Sep 17:00 Public
+drwxr-xr-x   7 priyanshu  staff    224 26 Oct 10:14 python projects
+
+===== 2. RUNNING PROCESSES =====
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+priyanshu          539  57.1  0.4 435404960  60688   ??  R     8:16PM   0:46.26 /usr/libexec/duetexpertd
+priyanshu          419   3.1  0.1 435358608  17984   ??  S     8:16PM   0:11.16 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+_locationd         144   2.5  0.2 435306528  28096   ??  Ss    8:16PM   0:12.26 /usr/libexec/locationd
+priyanshu          435   1.0  0.2 435301888  32368   ??  S     8:16PM   0:01.77 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+priyanshu          422   0.6  0.2 435391264  31216   ??  S     8:16PM   0:01.47 /usr/libexec/linkd
+root               153   0.3  0.2 435374384  27552   ??  Ss    8:16PM   0:15.04 /usr/libexec/PerfPowerServices
+_mds_stores        330   0.3  0.5 441560000  79504   ??  Ss    8:16PM   0:12.74 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+priyanshu         1171   0.2  0.8 440583616 135040   ??  Ss    8:47PM   0:19.80 /System/Volumes/Preboot/Cryptexes/App/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+root               100   0.1  0.1 435327216   9408   ??  Ss    8:16PM   0:19.57 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+
+===== 3. DISK SPACE =====
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   460Gi    12Gi   362Gi     4%    459k  3.8G    0%   /
+devfs            200Ki   200Ki     0Bi   100%     691     0  100%   /dev
+/dev/disk3s6     460Gi    20Ki   362Gi     1%       0  3.8G    0%   /System/Volumes/VM
+/dev/disk3s2     460Gi   8.7Gi   362Gi     3%    1.5k  3.8G    0%   /System/Volumes/Preboot
+/dev/disk3s4     460Gi   3.0Mi   362Gi     1%      63  3.8G    0%   /System/Volumes/Update
+/dev/disk1s2     550Mi   6.0Mi   528Mi     2%       1  5.4M    0%   /System/Volumes/xarts
+/dev/disk1s1     550Mi   5.8Mi   528Mi     2%      42  5.4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     550Mi   5.6Mi   528Mi     2%     864  5.4M    0%   /System/Volumes/Hardware
+/dev/disk3s5     460Gi    77Gi   362Gi    18%    717k  3.8G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+===== 4. MEMORY INFORMATION =====
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                   105783.
+Pages active:                                 377145.
+Pages inactive:                               370674.
+Pages speculative:                              9379.
+Pages throttled:                                   0.
+Pages wired down:                             103992.
+Pages purgeable:                               43018.
+"Translation faults":                       12131669.
+Pages copy-on-write:                          356992.
+Pages zero filled:                          17635999.
+Pages reactivated:                            299849.
+Pages purged:                                 252383.
+File-backed pages:                            318380.
+Anonymous pages:                              438818.
+Pages stored in compressor:                   113008.
+Pages occupied by compressor:                  39337.
+Decompressions:                                26997.
+Compressions:                                 161160.
+Pageins:                                      530689.
+Pageouts:                                       3761.
+Swapins:                                           0.
+Swapouts:                                          0.
+Pages tagged:                                  69415.
+Pages tagged resident:                         59617.
+Pages tagged compressed:                        9798.
+Pages tag-storage:                             32768.
+Pages tag-storage holding tags:                 2649.
+Pages tag-storage free:                          648.
+Pages tag-storage non-tag pageable:            29391.
+Pages tag-storage non-tag wired:                  80.
+Bytes of compressed tags:                    1510144.
+Tagged compressions:                           12174.
+Tagged decompressions:                          1995.
